@@ -17,4 +17,5 @@ public class Recursion {
        int n = sc.nextInt();
         printNumbers(n);
     }
+    
 }
